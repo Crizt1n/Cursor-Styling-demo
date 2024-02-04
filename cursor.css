@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(158, 81, 81);
+    color: white;
+}
+
+.Crosshair{
+   cursor: crosshair; 
+}
+
+.help{
+    cursor: help;
+}
+
+.grab{
+    cursor: grab;
+}
+
+.wait{
+    cursor: wait;
+}
